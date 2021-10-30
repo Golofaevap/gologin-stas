@@ -1,0 +1,110 @@
+[
+    {
+        "proxy": "127.0.0.1:20000",
+        "profileName": "C-2 g: CO- p:20000 от: 30.10",
+        "fullname": "Angela Morillo",
+        "dob": "1961-01-10",
+        "ssn": "1961-01-10",
+        "shortId": "C-2",
+        "zip": "59387"
+    },
+    {
+        "proxy": "127.0.0.1:20001",
+        "profileName": "C-3 g: DO- p:20001 от: 30.10",
+        "fullname": "Ken Magpantay",
+        "dob": "1958-11-05",
+        "ssn": "1958-11-05",
+        "shortId": "C-3",
+        "zip": "60842"
+    },
+    {
+        "proxy": "127.0.0.1:20002",
+        "profileName": "C-4 g: IQ- p:20002 от: 30.10",
+        "fullname": "Teodorica Morada",
+        "dob": "1973-01-12",
+        "ssn": "1973-01-12",
+        "shortId": "C-4",
+        "zip": "52098"
+    },
+    {
+        "proxy": "127.0.0.1:20003",
+        "profileName": "C-5 g: IQ- p:20003 от: 30.10",
+        "fullname": "Evangeline Aguirre",
+        "dob": "1993-03-27",
+        "ssn": "1993-03-27",
+        "shortId": "C-5",
+        "zip": "35780"
+    },
+    {
+        "proxy": "127.0.0.1:20004",
+        "profileName": "C-6 g: IQ- p:20004 от: 30.10",
+        "fullname": "Rey Cortez",
+        "dob": "1989-11-25",
+        "ssn": "1989-11-25",
+        "shortId": "C-6",
+        "zip": "81034"
+    },
+    {
+        "proxy": "127.0.0.1:20005",
+        "profileName": "C-7 g: JO- p:20005 от: 30.10",
+        "fullname": "Iris Padilla",
+        "dob": "1985-01-07",
+        "ssn": "1985-01-07",
+        "shortId": "C-7",
+        "zip": "96100"
+    },
+    {
+        "proxy": "127.0.0.1:20006",
+        "profileName": "C-8 g: JP- p:20006 от: 30.10",
+        "fullname": "Jose Mari Salas",
+        "dob": "1992-06-01",
+        "ssn": "1992-06-01",
+        "shortId": "C-8",
+        "zip": "64260"
+    },
+    {
+        "proxy": "127.0.0.1:20007",
+        "profileName": "C-9 g: PE- p:20007 от: 30.10",
+        "fullname": "Mary Dimaano",
+        "dob": "1961-04-07",
+        "ssn": "1961-04-07",
+        "shortId": "C-9",
+        "zip": "27671"
+    },
+    {
+        "proxy": "127.0.0.1:20008",
+        "profileName": "C-10 g: TH- p:20008 от: 30.10",
+        "fullname": "Brian Serrano",
+        "dob": "1982-09-28",
+        "ssn": "1982-09-28",
+        "shortId": "C-10",
+        "zip": "43553"
+    },
+    {
+        "proxy": "127.0.0.1:20009",
+        "profileName": "C-11 g: TW- p:20009 от: 30.10",
+        "fullname": "Mahala Narciso",
+        "dob": "1952-08-14",
+        "ssn": "1952-08-14",
+        "shortId": "C-11",
+        "zip": "92623"
+    },
+    {
+        "proxy": "127.0.0.1:20010",
+        "profileName": "C-12 g: TW- p:20010 от: 30.10",
+        "fullname": "Eduardon Bacus",
+        "dob": "1975-03-14",
+        "ssn": "1975-03-14",
+        "shortId": "C-12",
+        "zip": "89862"
+    },
+    {
+        "proxy": "127.0.0.1:20011",
+        "profileName": "C-13 g: YE- p:20011 от: 30.10",
+        "fullname": "Althea Chavez",
+        "dob": "1976-08-25",
+        "ssn": "1976-08-25",
+        "shortId": "C-13",
+        "zip": "71804"
+    }
+]
